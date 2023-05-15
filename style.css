@@ -31,6 +31,15 @@ body{
 .logoesc{
     width: 20%;
     border-radius: 80px;
+        margin: 45px 10px; 
+
+}
+
+.logoesc1{
+    width: 18%;
+    border-radius: 40px;
+    position:right;
+
 }
 
 .escola{
